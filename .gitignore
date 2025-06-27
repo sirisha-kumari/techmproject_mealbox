@@ -1,0 +1,3 @@
+# Ignore Angular cache directory
+frontend/.angular/cache/
+node_modules
